@@ -162,7 +162,8 @@ body.page-template-page-fullsingle-split {
           padding: 60px; } }
       @media (max-width: 800px) {
         .fs-split .split-content .split-content-vertically-center {
-          padding: 40px; } }
+          padding: 40px;
+          margin-top: 0; } }
 
 .split-intro {
   font-weight: 600;
